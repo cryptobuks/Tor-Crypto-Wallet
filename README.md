@@ -20,7 +20,7 @@
   </a>
 </p>
 
-## Table of Contents
+## 📝 Table of Contents
 
 - [Features](#features)
 - [Feedback](#getting-involved)
@@ -47,7 +47,7 @@
 * 1.0
     * CHANGE: Update docs (module code remains unchanged)
 
-### Requirements
+## 🔧 Prerequisites 
 
 * Linux
 * Git 1.7.10+
@@ -65,10 +65,10 @@
 * [Setup on Ubuntu](doc/setup-local-ubuntu.md)
 * [Deploy production server](doc/deploy-production-server.md)
 
-## Installation
+## 🚀 Installation & Deployment
 
 * <p>Sign up with <a target="_blank" href="https://m.do.co/c/397fb2277475">Digital Ocean</a><img width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
-* Install LAMP https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
+* Install LAMP or LEMP https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
 * Edit the configuration file `sudo nano /base/init.php`
 * Install Litecoin & start the Litecoin Daemon `sudo litecoind`
 * Edit the configuration file `sudo nano /vendor/sql/phpliteadmin.conf.php`
